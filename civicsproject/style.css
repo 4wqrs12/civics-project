@@ -1,0 +1,67 @@
+.separator {
+	border-bottom: 3px solid black;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 1900px;
+	margin: auto;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+}
+
+.chapters {
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+
+.center-img {
+	padding-bottom: 100px;
+	display: block;
+	margin: auto;
+	text-align: center;
+
+}
+
+.pollution-death-img {
+	padding-bottom: 100px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.second-img {
+	text-align: center;
+}
+
+.third {
+	display: block;
+	margin: auto;
+}
+
+
+.second-img-row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.thirdimg {
+	margin-top: -440px;
+	display: block;
+	float: right;
+	clear: right;
+}
+
+
+/* individual chapters */
+.individual-chapter {
+	padding-bottom: 50px;
+
+}
+
+/* .sectiontitle {
+} */
+
+li {
+	padding-bottom: 10px;
+}
